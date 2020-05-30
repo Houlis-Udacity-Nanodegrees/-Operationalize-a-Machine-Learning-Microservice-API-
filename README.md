@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Charis1331](https://circleci.com/gh/Charis1331/-Operationalize-a-Machine-Learning-Microservice-API-.svg?style=svg)](https://app.circleci.com/pipelines/github/Charis1331/-Operationalize-a-Machine-Learning-Microservice-API-)
 
 ## Project Overview
 
